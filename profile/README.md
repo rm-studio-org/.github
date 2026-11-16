@@ -39,7 +39,7 @@ Drawing on experience across ERP, groupware, e-commerce, and public-sector syste
 ## 📁 Projects
 
 ### ☁️ 삼성웰스토리 E-커머스 플랫폼 통합 프로젝트
-**Samsung Welstory E-Commerce Platform Integration** · `2026.03 – 현재` · AA / SA · PL
+**Samsung Welstory E-Commerce Platform Integration** · `2026` · AA / SA · PL
 
 삼성웰스토리 E-커머스 플랫폼의 Legacy IDC 서비스를 **Samsung Cloud Platform**으로 이관하고, WebLogic/OHS 기반 구조를 **Tomcat/Nginx**로 전환하고 있습니다.
 - **아키텍처:** Legacy IDC 애플리케이션/시스템 구조 분석, 클라우드 이관 구조 검토
@@ -49,7 +49,7 @@ Drawing on experience across ERP, groupware, e-commerce, and public-sector syste
 - **PL:** 10명 규모 수행 조직의 업무 조율과 개발 지원
 
 ### 🗄️ 애경그룹 그룹웨어 고도화 프로젝트 2차
-**AK Group Groupware Enhancement (Phase 2)** · `2025.07 – 2026.02` · 데이터 이관 전담
+**AK Group Groupware Enhancement (Phase 2)** · `2025 – 2026` · 데이터 이관 전담
 
 전자결재와 계열사 게시판 시스템의 **MSSQL → MySQL(Azure)** 대규모 데이터 이관을 전담해 일정 내에 완료했습니다.
 - **분석:** SQL Server 2016 SP1 레거시 데이터 모델 분석, AS-IS 문서화
@@ -58,14 +58,14 @@ Drawing on experience across ERP, groupware, e-commerce, and public-sector syste
 - **개발 · 이행:** Spring Boot · Spring Batch 이관 프로그램 개발, 실행 계획 수립과 실제 이관 수행
 
 ### 📊 네이버 데이터랩 연동 쇼핑데이터 열람 서비스
-**Naver Datalab Shopping Data Viewer** · `2025.01 – 2025.05` · 기획 · PM
+**Naver Datalab Shopping Data Viewer** · `2025` · 기획 · PM
 
 네이버 데이터랩 API로 실시간 쇼핑 트렌드 데이터를 열람하는 웹 플랫폼을 구축했습니다.
 - 서비스 기획, 데이터 수집 로직과 UI 흐름 설계 (Figma · Next.js)
 - 개발 · 디자인 협업 체계 구성, 일정 관리와 산출물 검수
 
 ### 🏢 한국무역협회 프로젝트
-**Korea International Trade Association (KITA)** · `진행 중`
+**Korea International Trade Association (KITA)** · `2026`
 
 ---
 
